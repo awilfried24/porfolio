@@ -212,7 +212,7 @@ Formé à l’interface de l’économie et de la démographie, et actuellement 
             <h3>Langues</h3>
             <ul>
               <li>Français : Langue maternelle</li>
-              <li>Anglais : Compétences professionnelles</li>
+              <li>Anglais : Compétence professionnelle</li>
             </ul>
 
             <h3>Programmation & Langages</h3>
