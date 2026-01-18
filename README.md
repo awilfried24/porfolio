@@ -227,7 +227,7 @@ Formé à l’interface de l’économie et de la démographie, et actuellement 
             </ul>
             <h3>Centre d'intérêt</h3>
             <ul>
-              <li>Natation, Football, Lecture</li>
+              <li>Natation, Football & Lecture</li>
             </ul>
           </div>
 
