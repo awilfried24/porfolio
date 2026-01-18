@@ -279,6 +279,13 @@ Formé à l’interface de l’économie et de la démographie, et actuellement 
       <!-- 3 : Expériences -->
       <section id="experiences" class="tab-content">
         <h2>Expériences</h2>
+        <h3>Assistant de recherche (éthique de la recherche)</h3>
+        <p class="item-meta">Burkina Faso · Collaboration avec des équipes de recherche des USA, Népal et du Canada · Juillet - Septembre 2025 </p>
+        <ul>
+          <li>Participation à l’analyse de protocoles de recherche et à la revue de la littérature.</li>
+          <li>Réflexion sur le consentement éclairé, la protection des données et les populations vulnérables.</li>
+          <li>Contribution à la rédaction de notes et de rapports scientifiques.</li>
+        </ul>
 
         <h3>Responsable du département statistique & gestionnaire de bases de données</h3>
         <p class="item-meta">Agence de Conseil, de Service et de Formation (ACSF)/Burkina Faso · Juillet - Novembre 2024 </p>
@@ -288,19 +295,12 @@ Formé à l’interface de l’économie et de la démographie, et actuellement 
           <li>Production d’indicateurs et de rapports pour appuyer la prise de décision.</li>
         </ul>
 
-        <h3>Assistant de recherche (éthique de la recherche)</h3>
-        <p class="item-meta">Burkina Faso · Collaboration avec des équipes de recherche des USA, Népal et du Canada · Juillet - Septembre 2025 </p>
-        <ul>
-          <li>Participation à l’analyse de protocoles de recherche et à la revue de la littérature.</li>
-          <li>Réflexion sur le consentement éclairé, la protection des données et les populations vulnérables.</li>
-          <li>Contribution à la rédaction de notes et de rapports scientifiques.</li>
-        </ul>
-
         <h3>Mémoire de Master 2 : Effet de l'espacement des naissances sur la survie des enfants de moins de 5 ans au Burkina Faso - Analyse exploratoire des changements dans le temps (de 1993 à 2021)</h3>
         <p class="item-meta"> Institut Supérieur des Sciences de la Population (ISSP)· Année académique 2023–2025 </p>
         <ul>
           <li>Utilisation de l'analyse de survie.</li>
         </ul>
+
       </section>
 
       <!-- 4 : Projets académiques -->
