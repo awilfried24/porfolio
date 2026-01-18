@@ -280,7 +280,7 @@ Formé à l’interface de l’économie et de la démographie, et actuellement 
       <section id="experiences" class="tab-content">
         <h2>Expériences</h2>
         <h3>Assistant de recherche sur les questions d’éthique de la recherche impliquant des sujets humains au Burkina Faso.</h3>
-        <p class="item-meta">Burkina Faso · Collaboration avec des équipes de recherche des USA, Népal et du Canada · Juillet - Septembre 2025 </p>
+        <p class="item-meta">Burkina Faso · Collaboration avec des équipes de recherche des USA, du Népal et du Canada · Juillet - Septembre 2025 </p>
         <ul>
           <li>Participation à l’analyse de protocoles de recherche et à la revue de la littérature.</li>
           <li>Réflexion sur le consentement éclairé, la protection des données et les populations vulnérables.</li>
