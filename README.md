@@ -218,7 +218,7 @@ Formé à l’interface de l’économie et de la démographie, et actuellement 
             <h3>Programmation & Langages</h3>
             <ul>
               <li>Python, R, Java, SQL</li>
-              <li>XML / XSL, LaTeX</li>
+              <li>GitHub, XML / XSL, LaTeX</li>
             </ul>
 
             <h3>Bureautique</h3>
