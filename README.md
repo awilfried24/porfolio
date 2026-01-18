@@ -202,7 +202,7 @@
       <!-- 1 : À propos de moi -->
       <section id="apropos" class="tab-content active">
         <p class="justify">
-Formé à l’interface de l’économie et de la démographie, et actuellement inscrit en Master 2 Mathématiques appliquées & statistique, j’évolue dans un univers où l’analyse quantitative éclaire des enjeux sociaux complexes. Je m’intéresse particulièrement aux questions de santé publique et de vulnérabilités sociales, tout en accordant une place essentielle au traitement et à l’exploitation de bases de données, issues aussi bien du champ des sciences sociales quantitatives & qualitative que d’autres domaines. Mon ambition est de mobiliser ces compétences au service de la décision, aussi bien pour les acteurs publics que pour les entreprises, afin de contribuer à des dispositifs, des services et des politiques réellement fondés sur les données.
+Formé à l’interface de l’économie et de la démographie, et actuellement inscrit en Master 2 Mathématiques appliquées & statistique, j’évolue dans un univers où l’analyse quantitative éclaire des enjeux sociaux complexes. Je m’intéresse particulièrement aux questions de santé publique et de vulnérabilités sociales, tout en accordant une place essentielle au traitement et à l’exploitation de bases de données, issues aussi bien du champ des sciences sociales quantitatives & qualitatives que d’autres domaines. Mon ambition est de mobiliser ces compétences au service de la décision, aussi bien pour les acteurs publics que pour les entreprises, afin de contribuer à des dispositifs, des services et des politiques réellement fondés sur les données.
         </p>
 
         <h2>Compétences</h2>
